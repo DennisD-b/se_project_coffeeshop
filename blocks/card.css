@@ -19,7 +19,7 @@ line-height: 30px;
     gap: 16px;
 }
 
-.card__list_item{
+.card__list-item{
     margin: 0 ;
     display: flex;
      gap: 16px;
@@ -29,7 +29,7 @@ line-height: 20px;
      
 }
 
-.card__list_divider{
+.card__list-divider{
   flex-grow: 1;
   border-bottom: 1px solid black;
  
