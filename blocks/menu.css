@@ -25,7 +25,8 @@ line-height: 52px;
     max-width: 780px;
 font-family: "Noto Serif", "Times New Roman", serif;
 font-size: 20px; 
-line-height: 30px;
+line-height: 30px; 
+text-align: center;
 }
 
 .menu__cards{
