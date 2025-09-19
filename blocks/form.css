@@ -31,7 +31,7 @@ color: #000;
 .form__fieldset{
     margin: 0;
     padding: 0;
-    border: 1px solid #838383;
+    border: none;
 }
 
 .form__button{
